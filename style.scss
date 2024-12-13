@@ -1,0 +1,25 @@
+body {
+  box-sizing: none;
+  box-shadow: none;
+  padding: 0;
+  margin: 0;
+
+}
+
+.amir {
+
+  height: 1000px;
+
+  .counter {
+    font-family: sans-serif;
+    color: hsl(209, 61%, 16%) !important;
+
+    .text {
+      font-size: 70px !important;
+    }
+
+    .number {
+      font-size: 70px;
+    }
+  }
+}
